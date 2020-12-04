@@ -1,10 +1,11 @@
 
 # E-Commerce
-<img src="./img/landing.PNG">
-<img src="./img/profile.PNG">
-<img src="./img/catalogue.PNG">
+<img src="./img/Landing.PNG">
+<img src="./img/Profile.PNG">
+<img src="./img/Catalogue.PNG">
 <img src="./img/product1.PNG">
 <img src="./img/product2.PNG">
+<img src="./img/Cart.PNG">
 <img src="./img/payment1.PNG">
 <img src="./img/payment2.PNG">
 
