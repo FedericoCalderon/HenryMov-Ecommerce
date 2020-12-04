@@ -1,0 +1,64 @@
+.grid {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+    align-items: center;
+    height: auto;
+}
+
+.gridcards {
+	display: grid;
+	grid-template-columns: repeat(3, auto);
+	grid-template-rows: repeat(2, auto);
+	justify-content: space-evenly;
+    align-content: center;
+	gap: 1rem;
+}
+
+.gridsearch {
+    height: 100%;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-right: 2px solid orange;
+    margin-right: 2rem;
+}
+
+div.sticky {
+    margin-top: 2rem;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2rem;
+
+}
+.container1{
+    margin-bottom: 2rem;
+}
+
+.sticky {
+    top: 10%;
+    position: sticky;
+
+}
+
+.categoryList {
+    text-align: left;
+}
+
+.sidebar-left {
+    padding: 0px 3.5%;
+}
+
+
+.pagcenter {
+    place-content: center;
+    margin-top: 1.5rem;
+}
+
+.arglbtn {
+    margin-top: 40px !important;
+    margin-bottom: -20px !important;
+}
